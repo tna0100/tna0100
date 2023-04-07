@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tna0100
 - 👀 I’m interested in all things technology
-- 🌱 I’m currently learning the C programming language
+- 🌱 I’m currently learning the Python programming language
 - 💞️ I’m looking to collaborate on OSINT tools
 - 📫 How to reach me tna0100@gmail.com
 
